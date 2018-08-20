@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>百度</title>
+	<link rel="stylesheet" type="text/css" href="css/123.css">
+</head>
+<body>
+<div class="block1">
+	<img src="img/1.png">
+	<h1>Hello World</h1>
+	<p>China is speed up strategic plan,standards,traffic rules,laws and regulations on accident-incurred liabilities for its smart car industry.Ecoonmic information Daily reported Thursday.</p>
+</div>
+<div class="block1box">
+	<h3>CREATE YOUR ACCOUNT</h3>
+	<p>IT IS ABSOLUTELY FREE</p>
+	<div class="block1box2">
+		<p>denis@getcraftwork.com</p>
+	</div>
+	<div class="block1box3">
+		<p>Create your password</p>
+	</div>
+	<div class="block1box4">
+		<p>SICN UP</p>
+	</div>
+</div>
+<div class="block2">
+	<div class="block2p1"><p>BOATLOADS OF AWESOME</p></div>
+	<div class="block2h2"><h2>Ready-made,customizable,HTML laing page sections</h2></div>
+	<div class="block2i1"><img src="3.png"></div>
+	<div class="block2i2"><img src="2.png"></div>
+	<div class="block2i3"><img src="4.png"></div>
+	<div class="block2i4"><img src="5.png"></div>
+	<div class="block2boxh1">
+		<h3>Monile First</h3>
+		<p>All modulz are built mobile-first for maximum device compatibility.
+		</p>
+	</div>
+	<div class="block2boxh2">
+		<h3>Accessibility</h3>
+		<p>Support for IE8,mobile and tablet devices,sreenreaders and color blind.</p>
+	</div>
+	<div class="block2boxh3">
+		<h3>Fluid Typography</h3>
+		<p>On different screen sizes.fonts automagically scale with the viewport.</p>
+	</div>
+	<div class="block2boxh4">
+		<h3>Customization</h3>
+		<p>Make any design your own using the Style Editor.Personalize fonts.colors.and layouts to create the custom look you want</p>
+	</div>
+</div>
+<div class="block3">
+	<img src="6.png">
+	<div>
+		<img src="">
+	</div>
+	<div class="block3box2">
+		<h1>Supportive policies for China's smartcar</h1>
+	</div>
+	<div class="block3box3">
+		<p>China will come up with its own smart car standards.traffic rules.laws and regulations relating to safety.according to the China industry innovation Alliance for the Intelli-gent and Connected Vehicles.</p>
+	</div>
+	<div class="block3box4">
+		<p>CHECK OUT FEATURES</p>
+	</div>
+	<div class="block3box5">
+		<p>TRY PRODUCT FOR FREE</p>
+	</div>
+	<div class="block3box6">
+		<img src="7.png">
+	</div>
+</div>
+<div class="block4">
+	<div class="block4box1"><h1>Try Our Awesome Products</h1></div>
+	<div class="block4box2"><img src="8.png"></div>
+	<div class="block4box3"><img src="9.png"></div>
+	<div class="block4box4"><img src="10.png"></div>
+	<div class="block4box5"><p>LiJun,a China Academy of Engineering academician and alse director of the alliance's committee,said that China will also launch design guidance for smart cars,smart map architec ture and standards for test grounds</p></div>
+	<div class="block4box6"><p>LiJun,a China Academy of Engineering academician and alse director of the alliance's committee,said that China will also launch design guidance for smart cars,smart map architec ture and standards for test grounds</p></div>
+	<div class="block4box7"><p>LiJun,a China Academy of Engineering academician and alse director of the alliance's committee,said that China will also launch design guidance for smart cars,smart map architec ture and standards for test grounds</p></div>
+</div>
+<div class="block5">
+	<div class="block5box1"><img src="11.png"></div>
+	<div class="block5box2"><img src="12.png"></div>
+	<div class="block5box3"><h3>Learn How to improve Your Personal Business</h3></div>
+	<div class="block5box4"><h3>Choose Between Two Beautifully Designed Color Schemes</h3></div>
+	<div class="block5box5"><p>Li Jun.a.China Academy of Engineering
+	academician and also director of the alliance's experts' committee.said that China will also launch design guidance for smart cars,smart map architecture and standards for test grounds</p></div>
+	<div class="block5box6"><p>Li Jun.a.China Academy of Engineering
+	academician and also director of the alliance's experts' committee.said that China will also launch design guidance for smart cars,smart map architecture and standards for test grounds</p></div>
+</div>
+<div class="block6">
+	<div class="block6box1"><h1>Our Awesome Crew</h1></div>
+	<div class="block6box2"><p>Our unique online teaching style makes leaming easy for everyone Whether you are trying to iand a new job.brush up on your sklils.</p></div>
+	<div class="block6box3">
+		<div class="wrap1"></div>	
+		<div class="connect_img">
+			<div class="wrap1p">
+			<h2>Ethan Dutton</h2>
+			<p>SENIOR VISUAL DESICNER</p>
+		    </div>
+		    <div class="wrap1img">
+			<a href="#">
+				<img src="26.png">
+			</a>
+			<a href="#">
+				<img src="27.png">
+			</a>
+			<a href="#">
+			<img src="28.png">
+			</a>
+			</div>
+		</div>
+		<img src="13.png">
+	</div>
+	<div class="block6box4">
+		<div class="wrap2"></div>
+		<div class="connect_img">
+			<div class="wrap2p">
+				<h2>Ethan Dutton</h2>
+				<p>SENIOR VISUAL DESICNER</p>
+			</div>
+			<div class="wrap2img">
+			<a href="#">
+				<img src="26.png">
+			</a>
+			<a href="#">
+				<img src="27.png">
+			</a>
+			<a href="#">
+				<img src="28.png">
+			</a>
+			</div>
+		</div>
+		<img src="14.png">
+	</div>
+	<div class="block6box5">
+		<div class="warp3"></div>
+		<div class="connect_img">
+			<div class="wrap3p">
+				<h2>Ethan Dutton</h2>
+				<p>SENIOR VISUAL DESICNER</p>
+			</div>
+			<div class="wrap3img">
+			<a href="#">
+				<img src="26.png">
+			</a>
+			<a href="#">
+				<img src="27.png">
+			</a>
+			<a href="#">
+				<img src="28.png">
+			</a>
+		  	</div>
+		</div>
+		<img src="15.png">
+	</div>
+
+
+	<div class="block6box6">
+		<div class="warp4"></div>
+		<div class="connect_img">
+			<div class="wrap4p">
+				<h2>Ethan Dutton</h2>
+				<p>SENIOR VISUAL DESICNER</p>
+			</div>
+			<div class="wrap4img">
+			<a href="#">
+				<img src="26.png">
+			</a>
+			<a href="#">
+				<img src="27.png">
+			</a>
+			<a href="#">
+				<img src="28.png">
+			</a>
+			</div>
+		</div>
+		<img src="16.png">
+	</div>
+</div>
+<div class="block7">
+	<div class="block7box1">
+		<div class="block7box1_1"><h3>FELL FREE TO WRITE US</h3></div>
+		<div class="block7box1_2"><input type="text" name="E-mail" placeholder="E-mail"></div>
+		<div class="block7box1_3"><input type="text" name="Subject" placeholder="Subject"></div>
+		<div class="block7box1_4"><input type="text" name="Message" placeholder="Message"></div>
+<!-- 	<div class="block7box1_2"></div>
+		<div class="block7box1_3"></div>
+		<div class="block7box1_4"></div> -->
+		<div class="block7box1_5"><p>SEND</p></div>
+	</div>
+	<div class="block7box2">
+		<div class="block7box2_1"><h1>Contacts</h1></div>
+		<div class="block7box2_2"><p>Make any design your using the Style Editor.Personalize fonts,colors.and layouts to create the custom look you want</p></div>
+		<div class="block7box2_3">
+			<div><img src="17.png"></div>
+			<div><p>360 king Street</p>
+				<p>Feastrvale Trevose.PA 1957</p>
+			</div>
+		</div>
+		<div class="block7box2_4">
+			<div><img src="18.png">
+			<p>(755)564-84-12</p>
+			</div>
+		</div>
+		<div class="block7box2_5">
+			<img src="19.png">
+			<a href="#"><p>you name@mil.com</p></a>
+		</div>
+		</div>		
+	</div>
+	<div class="block8">
+		<div class="block8box1">
+			<div class="block8box1_1">
+				<div><p>LEARN MORE</p></div>
+				<div><p class="p1">How it works?<p></div>
+				<div><p class="p1">Meeting tools</p></div>
+				<div><p class="p1">Live straming</p></div>
+				<div><P class="p1">Contact method</P></div>
+			</div>
+        </div>
+		<div class="block8box2">
+			<div class="block8box2_1">
+				<div><p>ABOUT US</p></div>
+				<div><p>About us</p></div>
+				<div><p>Features</p></div>
+				<div><p>Privacy police</p></div>
+				<div><p>Terms & Conditions</p></div>
+			</div>
+		</div>	
+		<div class="block8box3">
+			<div class="block8box3_1">
+				<div><p>SUPPORT</p></div>
+				<div><p>FAQ</p></div>
+				<div><p>Contact us</p></div>
+				<div><p>Live chat</p></div>
+				<div><p>Phone call</p></div>
+			</div>
+		</div>	
+		<div class="block8box4">
+			<div class="block8box4_1">
+				<div><p>ENJOY YOUR LIFE</p></div>
+				<div><p>Great Web UI kit for designers.</p></div>
+				<div><p>freelancers or business.</p></div>
+				<div class="block8box4_1_1">
+					<div><a href="#"><img src="20.png"></a></div>
+					<div><a href="#"><img src="21.png"></a></div>
+					<div><a href="#"><img src="22.png"></a></div>
+					<div><a href="#"><img src="23.png"></a></div>
+					<div><a href="#"><img src="24.png"></a></div>
+					<div><a href="#"><img src="25.png"></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
